@@ -5,4 +5,5 @@ public class Master {
     int b;
     int c;
     int d;
+    int e;
 }
